@@ -1,5 +1,5 @@
 # Welcome to my profile!
-- 👋 Hi, I’m @Dev-by-robin
+- 👋 I’m @Dev-by-robin
 - 👀 I’m interested in Web Development
 - 📫 How to reach me: just don't ;)
 
