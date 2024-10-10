@@ -1,6 +1,6 @@
 # Welcome to my profile!
 - 👋 I’m @Dev-by-robin
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development & Software Engineering
 - 📫 How to reach me: don't
 
 <!---
